@@ -1,0 +1,9 @@
+{
+  "name": "backendjuntos",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
